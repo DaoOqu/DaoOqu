@@ -21,7 +21,7 @@ I'm passionate about real estate, emerging technology (Data, ML, Web3.0) and fin
 
 ### Connect with me:
 
-[Portfolio](https://www.oaqstudio.com/)</br>
+<!-- [Portfolio](https://www.oaqstudio.com/)</br> -->
 [Twitter](https://twitter.com/DaoOqu)</br>
 [LinkedIn](https://www.linkedin.com/in/david-andres-oquendo/)
 
