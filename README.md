@@ -27,7 +27,7 @@ I'm passionate about real estate, emerging technology (Data, ML, Web3.0) and fin
 
 
 
-#### Thanks for visitng! Here's a random dev joke:
+#### Thanks for visitng! Here's a random joke:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 
