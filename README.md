@@ -16,7 +16,7 @@ I'm passionate about real estate, emerging technology and finding a way to give 
 <details close>
 <summary>What languages and tools do I use?</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,ruby,react,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,python,java,ruby,react,aws)](https://skillicons.dev)
 
 </details>
 
